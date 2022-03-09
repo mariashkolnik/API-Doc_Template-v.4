@@ -7,7 +7,7 @@
 
 Below is an example of Release History.
 
-> ![](Release_history_example.png){width="5.696213910761155in" height="1.9350962379702537in"}
+> ![](media/Release_history_example.png){width="5.696213910761155in" height="1.9350962379702537in"}
 
 ---------------------------------------------------------------------------------
   Version Number   Description                Date Modified         Author
