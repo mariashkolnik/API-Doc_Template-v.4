@@ -611,6 +611,6 @@ Describe API Notifications if applicable.
 
 Below are example sequence diagrams.
 
-![](media/image8.png){width="6.067774496937883in" height="3.6910137795275593in"}
+![](media/Sequence_Diagrams_1_p24.png)
 
-![](media/image9.png){width="6.0755249343832025in" height="3.4403510498687666in"}
+![](media/Sequence_Diagrams_2_p25.png)
