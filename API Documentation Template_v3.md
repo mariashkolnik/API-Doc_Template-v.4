@@ -337,7 +337,7 @@ Diagrams can be useful. The first type is an architecture diagram, which shows h
 
 ## Example API Workflow diagram
 
-![](media/image3.png){width="6.5236362642169725in" height="6.563706255468066in"}
+![](media/Example_API_Workflow_diagram.png){width="6.5236362642169725in" height="6.563706255468066in"}
 
 # Authentication 
 
@@ -463,7 +463,7 @@ Include the following sub-sections:
 
 ## Example Resource Model diagram
 
-![](media/image4.png){width="7.291666666666667in" height="8.263667979002625in"}
+![](media/Example_Resource_Model_diagram_p16.png){width="7.291666666666667in" height="8.263667979002625in"}
 
 ## Example Resource Model Table
 
