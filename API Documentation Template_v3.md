@@ -161,7 +161,7 @@ Data formats the REST API supports include:
 
 -   multipart/form-data
 
-> ![](HowAPIworks.png){width="5.696213910761155in" height="1.9350962379702537in"}
+> ![](media/HowAPIworks.png){width="5.696213910761155in" height="1.9350962379702537in"}
 
 ### Uses
 
