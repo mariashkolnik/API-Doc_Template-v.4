@@ -337,7 +337,7 @@ Diagrams can be useful. The first type is an architecture diagram, which shows h
 
 ## Example API Workflow diagram
 
-![](media/Example_API_Workflow_diagram.png){width="6.5236362642169725in" height="6.563706255468066in"}
+![](media/Example_API_Workflow_diagram.png)
 
 # Authentication 
 
