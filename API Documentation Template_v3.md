@@ -18,7 +18,7 @@ Below is an example of Release History.
 
   1.4              Draft                      January 26, 2015      John Smith 
 
-   2.0             Final                       February 16, 2015   John Smith
+  2.0             Final                       February 16, 2015   John Smith
 
   
   ---------------------------------------------------------------------------------
@@ -123,9 +123,9 @@ Explain why your API is needed and include use cases.
 
 -   A description of generic usage patterns.
 
-A RESTful API is an architectural style for an application program interface ([API](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating, and deleting of operations concerning resources.
+A RESTful API is an architectural style for an application program interface (API)) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating, and deleting of operations concerning resources.
 
-An API for a website is [code](https://whatis.techtarget.com/definition/code) that allows two software programs to communicate with each other. The API spells out the proper way for a developer to write a program requesting services from an operating system or other application.
+An API for a website is code that allows two software programs to communicate with each other. The API spells out the proper way for a developer to write a program requesting services from an operating system or other application.
 
 A RESTful API -- also referred to as a RESTful web service or REST API -- is based on representational state transfer (REST), which is an architectural style and approach to communications often used in web services development.
 
@@ -177,7 +177,7 @@ In order to be a truly RESTful API, a web service must adhere to the following s
 
 -   **Stateless operations**. All client-server operations should be stateless, and any state management that is required should take place on the client, not the server.
 
--   **RESTful resource [caching](https://whatis.techtarget.com/definition/caching)**. All resources should allow caching unless explicitly indicated that caching is not possible.
+-   **RESTful resource caching**. All resources should allow caching unless explicitly indicated that caching is not possible.
 
 -   **Layered system**. REST allows for an architecture composed of multiple layers of servers.
 
@@ -239,7 +239,7 @@ REST and Simple Object Access Protocol (SOAP) offer different methods to invoke 
 
 RESTful web services are stateless. A REST-based implementation is simple compared to SOAP, but users must understand the context and content being passed along, as there\'s no standard set of rules to describe the REST web services interface. REST services are useful for restricted profile devices, such as mobile, and are easy to integrate with existing websites.
 
-SOAP requires less plumbing code -- meaning low-level, infrastructural code that connects main code modules together -- than REST services design. The Web Services Description Language describes a common set of rules to define the messages, bindings, operations and location of the service. SOAP web services are useful for [asynchronous](https://whatis.techtarget.com/definition/synchronous-asynchronous-API) processing and invocation.
+SOAP requires less plumbing code -- meaning low-level, infrastructural code that connects main code modules together -- than REST services design. The Web Services Description Language describes a common set of rules to define the messages, bindings, operations and location of the service. SOAP web services are useful for asynchronous processing and invocation.
 
 **REST API Specification Information**
 
@@ -561,6 +561,7 @@ A RESTful API is an architectural style for an application program interface (A
   Execute an Action on an Entity   POST on TASK Resource   POST must be used to execute Task Resources
 
   Other Request Methods            POST on TASK Resource   GET and POST must not be used to tunnel other request methods.
+  
   -------------------------------------------------------------------------------------------------------------------------
 
 # API Call flows
@@ -601,6 +602,7 @@ This example API Call Flow retrieves a detailed list of customer activities, su
   Get Data Flows By Workspace         Lists data flows.
 
   Rename Data Flow                    Renames a dataflow.
+  
   -----------------------------------------------------------------------
 
 # API Notifications 
