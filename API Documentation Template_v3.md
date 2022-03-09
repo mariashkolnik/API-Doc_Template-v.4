@@ -7,23 +7,7 @@
 
 Below is an example of Release History.
 
-> ![](media/Release_history_example.png){width="5.696213910761155in" height="1.9350962379702537in"}
-
----------------------------------------------------------------------------------
-  Version Number   Description                Date Modified         Author
----------------- -------------------------- --------------------- ---------------
-  1.1              Outline                    March 30, 2014        John Smith
-
-  1.2              Draft                      December 05, 2015     John Smith
-
-  1.3              Draft                      January 12, 2015      John Smith
-
-  1.4              Draft                      January 26, 2015      John Smith 
-
-  2.0             Final                       February 16, 2015   John Smith
-
-  
-  ---------------------------------------------------------------------------------
+> ![](media/Release_history_example.png)
 
 **\
 **
