@@ -297,7 +297,7 @@ The Architecture section provides a high-level overview of the API components. Y
 
 ### Example API Structure Diagram
 
-![](media/image2.png){width="7.291666666666667in" height="3.9138888888888888in"}
+![](media/Example_API_Structure_Diagram.png){width="7.291666666666667in" height="3.9138888888888888in"}
 
 ## Entity API
 
