@@ -581,13 +581,13 @@ This example API Call Flow retrieves a detailed list of customer activities, su
 
 > **Example API Call Flow Diagram**
 >
-> ![](media/image6.png){width="6.3618121172353455in" height="4.268989501312336in"}
+> ![](media/Example_API_Call_Flow_Diagram_p22.png)
 
 # Data flow for REST API
 
 **API Data flow example**
 
-![](media/image7.png){width="6.84420384951881in" height="7.383802493438321in"}
+![](media/API_Data_flow_example_P23.png)
 
 ## Example Data Flow Operations
 
