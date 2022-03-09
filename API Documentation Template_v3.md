@@ -231,17 +231,17 @@ SOAP requires less plumbing code -- meaning low-level, infrastructural code that
 
 For each REST API specification, the following information should be included:
 
-• Purpose of the API.
+• Purpose of the API;
 
-• URL of resources and API including the version number.
+• URL of resources and API including the version number;
 
-• HTTP verbs supported.
+• HTTP verbs supported;
 
-• Representations supported: JSON ( XML is optional)
+• Representations supported: JSON ( XML is optional);
 
-• Response schema (*and where PUT, POST, PATCH are supported -- request schema*).
+• Response schema (*and where PUT, POST, PATCH are supported -- request schema*);
 
-• Links supported
+• Links supported:
 
 • Response status codes supported.
 
