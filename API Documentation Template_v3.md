@@ -397,15 +397,15 @@ The IssueTrack REST API allows developers to perform programmatically various ac
 
 -   Download an Issue Attachment
 
--   [Link Issues](https://www.jetbrains.com/help/youtrack/devportal/api-howto-link-issues.html)
+-   Link Issues
 
--   [Get Issue History](https://www.jetbrains.com/help/youtrack/devportal/api-usecase-issue-history.html)
+-   Get Issue History
 
--   [Get a Database Backup](https://www.jetbrains.com/help/youtrack/devportal/api-usecase-backup.html)
+-   Get a Database Backup
 
--   [Add User to Project Team](https://www.jetbrains.com/help/youtrack/devportal/api-usecase-add-user-to-team.html)
+-   Add User to Project Team
 
--   n Issue and Set Custom Fields
+-   Create an Issue and Set Custom Fields
 
 -   Get Issues List with All Values
 
@@ -463,7 +463,7 @@ Include the following sub-sections:
 
 ## Example Resource Model diagram
 
-![](media/Example_Resource_Model_diagram_p16.png){width="7.291666666666667in" height="8.263667979002625in"}
+![](media/Example_Resource_Model_diagram_p16.png)
 
 ## Example Resource Model Table
 
@@ -510,7 +510,7 @@ A notification event resource (depicted by \"SpecificEvent\" placeholder) is a s
 
 This notification structure owns an event payload structure (\"SpecificEventPayload\" placeholder) linked to the resource concerned by the notification using the resource name as access field (\"resourceName\" placeholder).
 
-> ![](media/image5.png){width="2.5in" height="6.847222222222222in"}
+> ![](media/Example_Resource_Models_p19.png)
 
 **\
 **
