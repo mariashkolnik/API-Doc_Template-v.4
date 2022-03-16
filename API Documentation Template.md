@@ -1331,7 +1331,7 @@ D.  In the **Headers** field, add the following keys and values:
 
 -   **Content-Type**: Enter **application/json**.
 
-E.  Click **Send** to transmit your request to the REST API.
+ E.  Click **Send** to transmit your request to the REST API.
 
 &nbsp;
 F.  To save the query configuration, click **Save**.
