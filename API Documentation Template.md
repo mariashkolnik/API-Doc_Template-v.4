@@ -340,7 +340,7 @@ The figure below depicts an on-boarding business process at a very high level of
 
 **Option 1: All resources are created without interaction with prospective partner**
 
-![](media/image7.png){width="7.260416666666667in" height="4.802083333333333in"}
+![](media/image7.png)
 
 This sequence diagram describes a partner on boarding process where:
 
