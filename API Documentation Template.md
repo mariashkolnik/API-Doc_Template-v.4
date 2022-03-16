@@ -1315,15 +1315,12 @@ Below is an example of building a basic query.
 A.  Click the **+** tab to create a new request.
 
 &nbsp;
-
 B.  Enter the API call you\'d like to send and the entity path of the desired resource. In the above example, the user is sending a GET request to retrieve field information about the ActionTypes entity.
 
 &nbsp;
-
 C.  Select the **Headers** tab.
 
 &nbsp;
-
 D.  In the **Headers** field, add the following keys and values:
 
 -   **ApiIntegrationcode**: Enter your API tracking identifier key.
@@ -1337,7 +1334,6 @@ D.  In the **Headers** field, add the following keys and values:
 E.  Click **Send** to transmit your request to the REST API.
 
 &nbsp;
-
 F.  To save the query configuration, click **Save**.
 
 To learn more about working with Postman, including advanced concepts, visit the [Postman Learning Center](https://learning.postman.com/)*.*
