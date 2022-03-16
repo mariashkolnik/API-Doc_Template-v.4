@@ -27,7 +27,7 @@ This section contains the revision history of an Example Company's REST API. The
 
 **IMPORTANT:**   Key attributes of the CompanyAlerts entity have changed with the release of Example Company 2021.3. These changes may require updates to your existing integrations. To avoid service disruption, we recommend that you review your applications for compatibility with the updates described in the 2021.3 REST API revision history revision history.
 
-![](media/image1.png){width="5.882655293088364in" height="9.87003937007874in"}
+![](media/image1.png)
 
 # **Contents** {#contents .TOC-Heading}
 
@@ -238,7 +238,7 @@ The Architecture section provides a high-level overview of the API components. Y
 
 ### Example API Structure Diagram
 
-![](media/image2.png){width="7.291666666666667in" height="3.9138888888888888in"}
+![](media/image2.png)
 
 ## Entity API
 
@@ -302,7 +302,7 @@ Edit this file to illustrate how your API interacts with other TELUS systems and
 
 Here\'s a [good example](https://go.telus.com/apifd/diagram-sample) of an API Context Diagram.
 
-![](media/image3.png){width="5.5465277777777775in" height="8.352083333333333in"}
+![](media/image3.png)
 
 ## Example API Workflow diagram
 
