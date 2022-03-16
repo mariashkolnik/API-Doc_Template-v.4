@@ -576,7 +576,7 @@ AgreementSpecification reference. An AgreementSpecification represents a templat
 
 Below is the json representation of an example of a \'PartnershipSpecification\' resource object
 
-![](media/JSON Representation sample 1.png)
+![](media/JSON_Representation _sample1.png)
 
 -----------------------------------------------------------------------------------------------------------------------------
   {\
@@ -857,7 +857,7 @@ PaymentMethod reference. A payment method defines a specific mean of payment (e.
 
 Below is the json representation of an example of a \'Partnership\' resource object
 
-![](media/JSON Representation sample 2.png)
+![](media/JSON_Representation _sample2.png)
 
 --------------------------------------------------------------------------------------------------
   {\
