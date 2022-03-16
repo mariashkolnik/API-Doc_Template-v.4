@@ -318,9 +318,9 @@ The endpoints are:
 
 Both endpoints require authentication by providing an authentication token in the request headers.
 
-![](media/image4.png){width="6.570138888888889in" height="3.9923611111111112in"}
+![](media/image4.png)
 
-![](media/image5.png){width="6.570138888888889in" height="3.923611111111111in"}
+![](media/image5.png)
 
 # Authentication 
 
@@ -336,8 +336,8 @@ This section provides some typical API usage scenarios.
 
 The figure below depicts an on-boarding business process at a very high level of abstraction.
 
-> ![](media/image6.png){width="5.666666666666667in" height="6.885416666666667in"}
-
+> ![](media/image6.png)
+> 
 **Option 1: All resources are created without interaction with prospective partner**
 
 ![](media/image7.png)
@@ -378,7 +378,7 @@ This sequence diagram describes a partner on boarding process where:
 
 (Agreement is selected by prospective partner)
 
-![](media/image9.png){width="7.260416666666667in" height="5.09375in"}
+![](media/image9.png)
 
 This sequence diagram describes a partner on boarding process where:
 
@@ -402,7 +402,7 @@ This sequence diagram describes a partner on boarding process where:
 
 (Party role is selected automatically based upon agreement chosen)
 
-![](media/image10.png){width="7.260416666666667in" height="4.989583333333333in"}
+![](media/image10.png)
 
 This sequence diagram describes a partner on boarding process where:
 
@@ -426,7 +426,7 @@ This sequence diagram describes a partner on boarding process where:
 
 (Then service information is provided and agreement is created)
 
-![](media/image11.png){width="7.260416666666667in" height="4.989583333333333in"}
+![](media/image11.png)
 
 This sequence diagram describes the eHealth partner on boarding process where:
 
@@ -442,7 +442,7 @@ This sequence diagram describes the eHealth partner on boarding process where:
 
 **Option 6: Party has already selected a party role, party role needs to be approved, agreement signed by party role needs to be retrieved**
 
-![](media/image12.png){width="7.260416666666667in" height="5.09375in"}
+![](media/image12.png)
 
 This sequence diagram describes a partner on boarding process where:
 
@@ -458,7 +458,7 @@ This sequence diagram describes a partner on boarding process where:
 
 **Option 7: Party role exist, agreement is updated**
 
-![](media/image13.png){width="7.260416666666667in" height="5.052083333333333in"}
+![](media/image13.png)
 
 This sequence diagram describes a partner on boarding process where:
 
@@ -516,7 +516,7 @@ A partnership specification contains all the information for the setup of a part
 
 **Resource model**
 
-![](media/image14.png){width="4.762742782152231in" height="5.622536089238845in"}
+![](media/image14.png)
 
 **Field descriptions**
 
@@ -629,11 +629,11 @@ A partnership represents a formalized collaboration between various parties, eac
 
 **Resource model**
 
-![](media/image15.png){width="6.538894356955381in" height="8.661417322834646in"}
+![](media/image15.png)
 
 **Note on Partner inheritance**: The Partner entity is conceptually a sub-class of the generic PartyRole entity that is defined within within the PartyRole API, as depicted by the diagram below. The structure is the same except that attribute descriptions in Partner entity are overridden to match the vocabulary that is accurate for partnerships.
 
-![](media/image16.png){width="1.3996762904636921in" height="1.8020833333333333in"}
+![](media/image16.png)
 
 **Field descriptions**
 
