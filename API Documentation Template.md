@@ -942,7 +942,7 @@ A notification event resource (depicted by \"SpecificEvent\" placeholder) is a s
 
 This notification structure owns an event payload structure (\"SpecificEventPayload\" placeholder) linked to the resource concerned by the notification using the resource name as access field (\"resourceName\" placeholder).
 
-> ![](media/image17.png){width="2.5in" height="6.847222222222222in"}
+> ![](media/image17.png)
 
 **\
 **
@@ -989,7 +989,7 @@ This example API Call Flow retrieves a detailed list of customer activities, su
 
 > **Example API Call Flow Diagram**
 >
-> ![](media/image18.png){width="6.3618121172353455in" height="4.268989501312336in"}
+> ![](media/image18.png)
 
 # API Notifications 
 
@@ -1053,7 +1053,7 @@ A URL identifies the location of a certain resource and how you can retrieve it;
 
 A URN identifies the resource by its name but doesn\'t necessarily shows its location. It often starts with a um: prefix; for instance: urn: uuid: 6e7bc280- 7c3a-lld9-9889-0800200c9a66
 
-![](media/image19.png){width="6.459045275590551in" height="3.417042869641295in"}Your URI should clearly communicate the APl\'s resource model. The following rules will help you design clear URls:
+![](media/image19.png) Your URI should clearly communicate the APl\'s resource model. The following rules will help you design clear URls:
 
 1.  Use hyphens but not underscores to make your URI readable.
 
@@ -1098,7 +1098,7 @@ The following are the main methods that indicate what type of operation is to be
 
 -   DELETE - remove all existing resources
 
-> ![](media/image20.png){width="6.638888888888889in" height="2.5743055555555556in"}
+> ![](media/image20.png)
 
 Just like with URIs, naming resource endpoints is crucial for API usability. Here are some tips on how to name endpoints:
 
@@ -1162,7 +1162,7 @@ Monitoring real-time API access and usage trends is a must. It\'s important to g
 
 All exceptions should be mapped in an error payload. Usually, it\'s important to demonstrate where an error came from. It\'s also important to provide some guidance on how to fix a failing call. If you build your API using Ruby on Rails, you can use the exception_notification gem to quickly set up the most used notification channels like email, Slack, and WebHooks. Or if you need to view statistics, you can use third-party services like Honeybadger, Sentry, and NewRelic.
 
-![](media/image21.png){width="7.279621609798776in" height="3.4281233595800527in"}
+![](media/image21.png)
 
 ## HTTP status codes
 
@@ -1306,7 +1306,7 @@ Proceed to the next section of this article to learn how to get started with the
 
 Below is an example of building a basic query.
 
-![](media/image22.png){width="6.570138888888889in" height="2.7472222222222222in"}
+![](media/image22.png)
 
 A.  Click the **+** tab to create a new request.
 
@@ -1348,23 +1348,23 @@ Using APIs on a daily basis might become cumbersome, as one might have dozens or
 
 Finds a user based on the ID.
 
-![](media/image23.png){width="7.220056867891514in" height="5.324507874015748in"}
+![](media/image23.png)
 
-![](media/image24.png){width="6.3844860017497815in" height="3.9514238845144356in"}
+![](media/image24.png)
 
 ## Update User by ID
 
 Updates a specified user.
 
-![](media/image25.png){width="7.3484251968503935in" height="7.55621062992126in"}
+![](media/image25.png)
 
-![](media/image26.png){width="6.5in" height="2.997916666666667in"}
+![](media/image26.png)
 
 ## Delete User by ID
 
 Deletes a user by ID.
 
-![](media/image27.png){width="6.34786854768154in" height="4.776519028871391in"}
+![](media/image27.png)
 
 ## Example Customer Collection API Call
 
@@ -1378,15 +1378,15 @@ When creating a customer, a new evaluation license is created for 30 days, and t
 >
 > **Fields**
 >
-> ![](media/image28.png){width="7.165550087489064in" height="5.249384295713035in"}
+> ![](media/image28.png)
 
 **Request Example**
 
-![](media/image29.png){width="7.273829833770779in" height="0.5577919947506562in"}
+![](media/image29.png)
 
 **Response Example**
 
-![](media/image30.png){width="7.184541776027997in" height="2.8975678040244968in"}
+![](media/image30.png)
 
 ### [<span id="_Toc98260640" class="anchor"></span>Get JWT Token](https://help.cyren.com/display/PROD/Get+JWT+Token)
 
@@ -1437,23 +1437,23 @@ If the token has expired, a new token request is required.
 
 **Example of an HTTPS Request Header**
 
-![](media/image31.png){width="7.257054899387577in" height="1.3559897200349955in"}
+![](media/image31.png)
 
 This is the client credentials endpoint 
 
 **Example of curl request**
 
-![](media/image32.png){width="7.250203412073491in" height="1.1996741032370954in"}
+![](media/image32.png)
 
 **Request Example**
 
-![](media/image33.png){width="7.495133420822397in" height="0.2811428258967629in"}
+![](media/image33.png)
 
 This is the response body
 
 **Response Example**
 
-![](media/image34.png){width="7.4164195100612424in" height="2.5327613735783028in"}
+![](media/image34.png)
 
 ## Example Get Customer Resource API Call
 
@@ -1463,12 +1463,12 @@ Returns the customer account information for the specified customer_id.
 
 #### Fields
 
-![](media/image35.png){width="6.742588582677166in" height="4.702143482064742in"}
+![](media/image35.png)
 
 **Request Example**
 
-![](media/image36.png){width="7.112740594925635in" height="0.24665463692038495in"}
+![](media/image36.png)
 
 **Response Example**
 
-![](media/image37.png){width="6.623353018372703in" height="3.42122375328084in"}
+![](media/image37.png)
