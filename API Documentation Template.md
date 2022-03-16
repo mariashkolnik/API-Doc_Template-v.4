@@ -576,7 +576,7 @@ AgreementSpecification reference. An AgreementSpecification represents a templat
 
 Below is the json representation of an example of a \'PartnershipSpecification\' resource object
 
-![](media/JSON_Representation _sample1.png)
+![](media/JSON_Representation_sample1.png)
 
 -----------------------------------------------------------------------------------------------------------------------------
   {\
