@@ -857,6 +857,8 @@ PaymentMethod reference. A payment method defines a specific mean of payment (e.
 
 Below is the json representation of an example of a \'Partnership\' resource object
 
+![](media/JSON Representation sample 2.png)
+
 --------------------------------------------------------------------------------------------------
   {\
   \"@type\": \"Partnership\",\
